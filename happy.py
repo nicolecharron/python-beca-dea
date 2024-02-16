@@ -1,2 +1,8 @@
-print("Beca d&a python")
+def funciones(texto):
+    return texto
+
+texto = "A funciones funcionou!!"
+
+funciones(texto)
+
 
