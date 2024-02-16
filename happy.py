@@ -3,6 +3,9 @@ def funciones(texto):
 
 texto = "A funciones funcionou!!"
 
-funciones(texto)
+texto_result = funciones(texto)
+
+print(texto_result)
+
 
 
